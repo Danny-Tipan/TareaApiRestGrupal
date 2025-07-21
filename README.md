@@ -1,3 +1,24 @@
+# Restaurant Management API - NestJS Backend
+
+**Aplicaciones Web - Tarea por Equipos**  
+*Desarrollo de un Backend (API REST) para Sistema de Gestión de Restaurante*
+
+## Authors
+
+This project was developed by:
+- **Kevin Alvear**
+- **David Arciniegas**
+- **Alexis Chacon**
+- **Angel Falcon**
+- **Dany Tipan**
+
+## Results and Functionality
+
+To view the complete results and functionality of the API, check the detailed documentation:
+- [SWAGGER UI Documentation (PDF)](https://github.com/Danny-Tipan/TareaApiRestGrupal/blob/main/SWAGGER%20UI.pdf)
+
+---
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -110,20 +131,6 @@ Check out a few resources that may come in handy when working with NestJS:
 ## Support
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Results and Functionality
-
-To view the complete results and functionality of the API, check the detailed documentation:
-- [SWAGGER UI Documentation (PDF)](https://github.com/Danny-Tipan/TareaApiRestGrupal/blob/main/SWAGGER%20UI.pdf)
-
-## Authors
-
-This project was developed by:
-- **Kevin Alvear**
-- **David Arciniegas**
-- **Alexis Chacon**
-- **Angel Falcon**
-- **Dany Tipan**
 
 ## Stay in touch
 
