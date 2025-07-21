@@ -20,13 +20,30 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
-  
-## Install
+
+## Installation
+
+### Install NestJS CLI
+```bash
 npm install -g @nestjs/cli
+```
+
+### Install project dependencies
+```bash
+npm install
+```
+
+### Install additional packages
+```bash
+# TypeORM and PostgreSQL support
 npm install @nestjs/typeorm typeorm pg
+
+# Swagger/OpenAPI documentation
 npm install --save @nestjs/swagger swagger-ui-express
+
+# Validation and transformation
 npm install class-validator class-transformer
-npm install --save @nestjs/swagger swagger-ui-express
+```
 
 ## Description
 
@@ -97,6 +114,8 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## Stay in touch
 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
 ## License
 
