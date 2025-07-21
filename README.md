@@ -20,6 +20,13 @@
 </p>
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+  
+## Install
+npm install -g @nestjs/cli
+npm install @nestjs/typeorm typeorm pg
+npm install --save @nestjs/swagger swagger-ui-express
+npm install class-validator class-transformer
+npm install --save @nestjs/swagger swagger-ui-express
 
 ## Description
 
