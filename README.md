@@ -111,6 +111,20 @@ Check out a few resources that may come in handy when working with NestJS:
 
 Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
+## Results and Functionality
+
+To view the complete results and functionality of the API, check the detailed documentation:
+- [SWAGGER UI Documentation (PDF)](https://github.com/Danny-Tipan/TareaApiRestGrupal/blob/main/SWAGGER%20UI.pdf)
+
+## Authors
+
+This project was developed by:
+- **Kevin Alvear**
+- **David Arciniegas**
+- **Alexis Chacon**
+- **Angel Falcon**
+- **Dany Tipan**
+
 ## Stay in touch
 
 - Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
